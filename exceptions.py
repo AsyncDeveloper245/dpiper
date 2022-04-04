@@ -1,0 +1,2 @@
+class DpiperExceptions(Exception):
+    pass
